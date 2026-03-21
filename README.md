@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+>> HEAD
 # Smart Biometric Attendance (Node.js + Express)
 
 ## Easiest way to run
@@ -44,7 +44,8 @@ npm start
 
 - Records are stored in an in-memory array in `server.js`, so they reset when you stop/restart the server.
 
-=======
+
 # biometric-system
 Smart biometric attendance system with real-time tracking using Node.js, Express, and frontend technologies
->>>>>>> 1ebc5e43cc8bb242f6daa14b9e9665be96a9dd6d
+>> Show
+1ebc5e43cc8bb242f6daa14b9e9665be96a9dd6d
