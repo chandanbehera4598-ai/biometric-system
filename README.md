@@ -1,4 +1,4 @@
->> HEAD
+>>> HEAD
 # Smart Biometric Attendance (Node.js + Express)
 
 ## Easiest way to run
@@ -47,5 +47,5 @@ npm start
 
 # biometric-system
 Smart biometric attendance system with real-time tracking using Node.js, Express, and frontend technologies
->> Show
+>>> Show
 1ebc5e43cc8bb242f6daa14b9e9665be96a9dd6d
